@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello! dfrobot\n");
+	printf("hello dfrobot\n");
 	return 0;
 }
